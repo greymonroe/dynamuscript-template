@@ -24,6 +24,8 @@ keywords          : "keywords"
 wordcount         : "X"
 
 bibliography      : ["r-references.bib"]
+csl               : mycsl.csl
+
 
 floatsintext      : no
 figurelist        : no
