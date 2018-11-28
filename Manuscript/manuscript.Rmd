@@ -60,6 +60,8 @@ petalcor<-cor.test(iris_data$Petal.Length, iris_data$Petal.Width)
 speciesmeanstable<-iris_data %>% 
   group_by(Species) %>%
   summarise(Sepal.Length=mean(Sepal.Length), Sepal.Width=mean(Sepal.Width), Petal.Length=mean(Petal.Length), Petal.Width=mean(Petal.Width))
+
+write.csv(speciesmeanstable, "../Tables/speciesmeanstable.csv")
 ```
 
 ```{r makeiriscorrelationsplot, results = "hide"}
