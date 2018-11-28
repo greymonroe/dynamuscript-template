@@ -1,0 +1,5 @@
+"0","sepalcor<-cor.test(iris_data$Sepal.Length ~ iris_data$Sepal.Width)
+"
+"2","Error in cor.test.formula(iris_data$Sepal.Length ~ iris_data$Sepal.Width) : 
+  'formula' missing or invalid
+"

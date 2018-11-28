@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543404032206.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3C88EEAE",
+    "lastKnownWriteTime" : 1543414288,
+    "last_content_update" : 1543414288606,
+    "path" : "~/github/dynamuscript_template/Manuscript/manuscript.Rmd",
+    "project_path" : "Manuscript/manuscript.Rmd",
+    "properties" : {
+        "cursorPosition" : "85,251",
+        "last_setup_crc32" : "E06FABC619d882e5",
+        "scrollLine" : "84",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

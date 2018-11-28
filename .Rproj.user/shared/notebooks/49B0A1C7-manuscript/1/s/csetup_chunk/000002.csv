@@ -1,0 +1,12 @@
+"0","library(""papaja"")"
+"0","library(""ggplot2"")"
+"0","library(""cowplot"")"
+"2","
+Attaching package: ‘cowplot’
+
+"
+"2","The following object is masked from ‘package:ggplot2’:
+
+    ggsave
+
+"
