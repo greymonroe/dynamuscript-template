@@ -2,7 +2,7 @@
 
 ### Grey Monroe
 
-Perhaps it was reviewer #3 who requested a small change to the analyses which would only change the result slightly but required you recreate every figure and update all the stats in your paper. Or maybe it was dragging that figure into Word and watching hours of work formatting the document dissappear before you eyes. Whatever the reasons, you're here because you know there has to be a better way. 
+Perhaps it was reviewer #3 who requested a small modification to the analyses which would only change the result slightly but required you recreate every figure and update all the stats in your paper. Or maybe it was dragging that figure into Word and watching hours of work formatting the document dissappear before you eyes. Whatever the reasons, you're here because you know there has to be a better way. 
 
 ![](https://i.kym-cdn.com/photos/images/original/000/809/345/144.jpg "True")
 
@@ -32,11 +32,11 @@ The _.bib_ file in this fodler contains all references.
 
 ## Details
 
-I chose to use the R package _papaja_ because the dfault output looks really nice and requires litle changes for my needs. I've added some Latex code to the header so that tables and figures in the Supplement section are named accordingly.
+I chose to use the R package _papaja_ because the default output looks really nice and required litle changes for my needs. I've added some Latex code to the header so that tables and figures in the Supplement section are named accordingly.
 
 For data wrangling, I've finally learned to appreciate _tidyverse_ whcih is a nice alternative to the data wrangling approaches of times past. For making plots I prefer to use _ggplot2_ for it's versatility. To combine mutliple plots, I use _cowplots_ because I like the label parameter which automatically adds _a, b, c, ect_ if there are mutltiple plots combined.
 
-This is a work in progress, and probably always will be. Your feedback is valuble to all of us, and if you have or find a better way to do this, please share. Please post to the issues page of this github repo. 
+This is a work in progress, and probably always will be. Your feedback is valuble and if you have or find a better way to do this, please share. Please post to the issues page of this github repo. 
 
 
 
