@@ -6,7 +6,6 @@ Perhaps it was reviewer #3 who requested a small change to the analyses which wo
 
 ![](https://i.kym-cdn.com/photos/images/original/000/809/345/144.jpg "True")
 
-
 The writing process has always been linked to technology. When was the scientific paper written on a typewriter? A generation ago most papers used simple analyses and contained just a few figures, sometimes drafted by hand. If this were still the case, Microsoft Word would still be a suitable tool for writing scientific papers, but of course this is a far cry from the modern manuscript and its 20 supplemental figures. Managing all of this requires a better system of creating manuscripts, one that makes publishing science faster and more flexible.
 
 For these reasons, I recently set out to write an entire manuscript for a scientific publication in R. As with any endeavor that invovles gaining new coding skills, I knew the process would be slow at first but rewarding in the long run. It certainly was both, but now that I have seen the result I will definitely be writing all manuscrupts in the future in this way. After overcoming the initial learning curve, I am convinced that writing like this not only increases the reproducibility of my science but is also faster and way more fun. 
