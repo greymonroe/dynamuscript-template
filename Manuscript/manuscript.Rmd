@@ -53,6 +53,7 @@ library("tidyverse")
 
 ```{r readdata}
 iris_data<-read.csv("../Data/iris_data.csv")
+save(iris_data, file = "../RData/iris_data")
 ```
 
 ```{r analyzedata}
